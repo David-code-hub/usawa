@@ -1,5 +1,5 @@
 ### Usawa landing page 🚀
 
-hosting : firebase
-domain : godaddy
-auto deployments : github
+#### hosting : firebase
+#### domain : godaddy
+#### auto deployments : github
